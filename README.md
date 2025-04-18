@@ -1,4 +1,4 @@
-# MERN stack Chat Application - Chit-Chat App
+# MERN stack Chat Application - Chat App
 
 Chit-Chat App is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) and Material-UI (MUI), leveraging Socket.IO for real-time messaging. It supports both individual and group chat functionalities with full user authentication and profile management.
 
