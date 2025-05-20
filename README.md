@@ -20,9 +20,12 @@ Chit-Chat App is a real-time messaging application built using the MERN stack (M
 - **Authentication:** JWT (JSON Web Tokens), bcrypt
 - **Other Libraries:** Axios, Lottie
 
-<img width="1430" alt="Screenshot 2025-04-18 at 4 07 20 PM" src="https://github.com/user-attachments/assets/17b6bb12-5cf8-4dd6-a264-b3745120e432" />
-
 ![image1 ](https://github.com/user-attachments/assets/4ff6fc21-2a9c-4bbe-9290-31350274a3c5)
+
+![image2](https://github.com/user-attachments/assets/e5f03bd2-82bd-4aed-9f75-18fead772cac)
+
+![image 3](https://github.com/user-attachments/assets/5dff14c6-205b-4806-bd37-99d172e0501f)
+
 
 
 
