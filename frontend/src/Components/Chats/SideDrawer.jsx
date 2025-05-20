@@ -318,7 +318,7 @@ function SideDrawer() {
         </Tooltip>
 
         <Typography variant='h6'>
-          Chat-Chat
+          Hive-Chat
         </Typography>
 
         <div style={{ marginRight: "10px" }}>

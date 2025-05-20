@@ -25,7 +25,7 @@ function Homepage() {
       <Box display="flex" alignItems="center" justifyContent="center"
         p={2} m="30px 0 15px 0" borderRadius="5px" sx={{ bgcolor: "white" }}>
         <Typography variant="body1">
-          Chit - Chat 
+          Hive-Chat
         </Typography>
       </Box>
 

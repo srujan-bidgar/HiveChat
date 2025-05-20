@@ -59,7 +59,7 @@ function Login() {
     catch (error) {
       // console.log(error.response.status);
       if (error.response.status == '500')
-        setSnackbarmessage('Chit-Chat server unreachable');
+        setSnackbarmessage('Hive Connect server unreachable');
       else
         setSnackbarmessage(error.response.data.message);
       setOpen(true);
